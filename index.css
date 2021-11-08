@@ -1,0 +1,90 @@
+header{
+    background-color:rgb(230, 230, 230) 
+}
+nav{
+    display: flex; justify-content: space-between; align-items: center; width: 95%; margin: 0 auto; padding: 30px 0;
+}
+div{ 
+    display: flex; align-items: center; 
+}
+h2{
+    margin-right: 50px; 
+}
+ul{
+    display: flex; align-items: center; list-style: none; padding: 0%;
+}
+li{
+    margin: 0 20px;
+}
+.dua{ text-decoration: none; color: black;
+
+}
+hr{
+    margin: 0%; padding: 0%;
+}
+.tiga{
+    display: flex; align-items: center; justify-content: space-between; width: 95%; margin: 0 auto; padding: 50px 0;
+}
+section{ 
+    width: 900px;
+}
+p, .r{
+    margin: 15px 0;
+}
+.oki{
+    margin: 20px 0; 
+}
+
+.h22{
+    margin: 20px o;
+}
+.div2{
+    display: grid; grid-template-columns: auto; 
+    grid-row: 10px;
+}.p1#p2#p4#p5#p6#p7{
+    margin: 15px 0;
+}
+.p3{
+    text-decoration: underline; color: blue;
+}
+.hr3{
+    margin: 10px 0;
+}
+.section2{
+    background-color: rgb(230, 230, 230); padding: 30px;
+
+}
+.h33{
+    padding: 10px 0;
+}
+table{
+    width: 270px;
+}
+.td1#td2#td3#td4#td5#td6#td7{
+    padding: 10px 0; text-align: end;
+}
+.hr4{
+    margin: 0;
+    padding: 0;
+}
+footer{
+    display: flex;
+    justify-content: space-between; width: 95%;
+    margin: 0 auto; padding: 20px 0;
+}
+.nav1{
+    display: flex;
+    align-items: center;
+}
+.h44{
+    margin-right: 30px;
+}
+.ul1{
+    display: flex; align-items: center; list-style: none; padding: 0 ;
+}
+li{
+    margin: 0 10px;
+}
+.stay{
+    margin: 2px 0;
+}
